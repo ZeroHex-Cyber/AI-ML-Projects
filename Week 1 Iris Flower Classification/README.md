@@ -1,6 +1,6 @@
 # Week 1 – Iris Flower Classifier 
 
-This project focuses on classifying iris flowers into three species using the K-Nearest Neighbors (KNN) algorithm. It's part of a weekly AI/ML internship program.
+This project focuses on classifying iris flowers into three species using the K-Nearest Neighbors (KNN) algorithm. It's part of my weekly AI/ML internship program.
 
 ---
 
