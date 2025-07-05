@@ -1,6 +1,7 @@
 # Week 2 – Student Performance Prediction using Logistic Regression
 
-This project focuses on predicting student pass/fail outcomes using the **Logistic Regression** algorithm. It's a part of my AI/ML internship weekly submission.
+This project focuses on predicting student pass/fail outcomes using the **Logistic Regression** algorithm. 
+It's a part of my AI/ML internship weekly submission.
 ---
 
 ##  Objective
