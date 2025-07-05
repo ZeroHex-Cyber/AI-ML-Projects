@@ -14,7 +14,7 @@ Build a binary classification model to predict whether a student will pass or fa
 
 ##  Files Included
 
-- `Student Performance Prediction.ipynb` — Jupyter Notebook with code, visualizations, and model outputs
+- `Student Performance Prediction using Logistic Regression.ipynb` — Jupyter Notebook with code, visualizations, and model outputs
 
 ---
 
@@ -43,7 +43,7 @@ pip install pandas scikit-learn matplotlib
 3. Run the Jupyter notebook:
 
 ```bash
-jupyter notebook Student Performance Prediction.ipynb
+jupyter notebook Student Performance Prediction using Logistic Regression.ipynb
 ```
 
 ---
