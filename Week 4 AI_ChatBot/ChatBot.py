@@ -14,7 +14,7 @@ print("Chatbot: Hello! ")
 while True:
     user_input = input("You: ").lower().strip() # Getting input from the user.
 
-    # ---Pattern matching with use_inputs---
+    # ---Pattern matching with user_inputs---
 
     if user_input in ["hi", "hello", "hola"]:
         print("Chatbot:", responses.get("hi"))
